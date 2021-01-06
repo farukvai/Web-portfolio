@@ -1,3 +1,6 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
 .half-width{
 width:40%;
 float:left;
@@ -5,11 +8,9 @@ margin-left:5%;
 padding-left:2%;
 }
 .right-img img{
- width:100%;
+ width:80%;
 }
-body{
-    font-family: 'Roboto', sans-serif;
-}
+
 .top-section h1{
     font-size:45px;
     color:#363958;
@@ -30,4 +31,21 @@ body{
     color:#fff;
     margin-top:50px;
     border-radius: 5px;
+}
+.top-section{
+    height:500px;
+}
+
+.about-section h3{
+    color: #363958;
+    font-size:30px;
+    font-family: roboto;
+    font-weight: 700;
+}
+.about-section p{
+    color:#3E3E3E;
+    padding-bottom:30px;
+    font-family: roboto;
+    font-size: 16px;
+    line-height: 24px;;
 }
