@@ -35,7 +35,9 @@ padding-left:2%;
 .top-section{
     height:500px;
 }
-
+.about-section{
+    height:500px;
+}
 .about-section h3{
     color: #363958;
     font-size:30px;
@@ -48,4 +50,19 @@ padding-left:2%;
     font-family: roboto;
     font-size: 16px;
     line-height: 24px;;
+}
+.mid{
+    width:80%;
+}
+.one-third{
+    width:29%;
+    float:left;
+    padding-left:4%;
+}
+
+.one-third img{
+ width:70%;
+}
+.text-center{
+    text-align:center;
 }
